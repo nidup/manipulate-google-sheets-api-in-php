@@ -1,8 +1,13 @@
 # Manipulate Google Sheets API in PHP 🐘
 
-Code examples for the tutorial [How to Use Google Sheets API in PHP?](https://www.nidup.io/blog/manipulate-google-sheets-in-php-with-api).
+Code examples for the tutorial [How to Use Google Sheets API in PHP?](https://www.nidup.io/blog/manipulate-google-sheets-in-php-with-api)
 
 The code is packaged as a simple Symfony application with cli commands.
+
+This series also proposes other PHP data integration tutorials:
+- [How to Read and Write CSV Files in PHP?](https://www.nidup.io/blog/manipulate-csv-files-in-php)
+- [How to Read and Write Excel Files in PHP?](https://www.nidup.io/blog/manipulate-excel-files-in-php)
+- [How to Read, Decode, Encode, and Write JSON Files in PHP?](https://www.nidup.io/blog/manipulate-json-files-in-php)
 
 ## Installation 📦
 
