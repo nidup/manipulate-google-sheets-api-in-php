@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+
+  app-cli:
+    build: .docker
+    working_dir: /usr/src/myapp
+    volumes:
+      - ./:/usr/src/myapp
+      - ./data/:/usr/src/myapp/data
+      # ensure timezone are the same on the host and in the container
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    stdin_open: true
+    tty: true

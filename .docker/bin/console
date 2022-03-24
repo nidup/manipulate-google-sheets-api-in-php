@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker-compose run --rm app-cli /bin/bash -c "php bin/console $1 $2 $3 $4 $5 $6"
