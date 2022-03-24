@@ -1,4 +1,4 @@
-# Manipulate JSON Data in PHP 🐘
+# Manipulate Google Sheets API in PHP 🐘
 
 Code examples for the tutorial [How to Use Google Sheets API in PHP?](https://www.nidup.io/blog/manipulate-google-sheets-in-php-with-api).
 
